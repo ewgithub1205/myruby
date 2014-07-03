@@ -1,3 +1,3 @@
 class Test
   
-end
+end 
